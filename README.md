@@ -3,5 +3,5 @@ Supplementary and implementation for "Deep Reinforcement learning with Multiple 
 
 Code coming soon
 
-
+Supplementary material is available in Release.
 
